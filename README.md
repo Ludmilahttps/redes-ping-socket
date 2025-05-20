@@ -1,7 +1,9 @@
-# O objetivo desse projeto é criar uma aplicação cliente-servidor baseada em UDP com sockets em Python, onde:
+## O objetivo desse projeto é criar uma aplicação cliente-servidor em Python, usando sockets, que:
 
-* O cliente envia 10 mensagens ping.
-* O servidor responde com mensagens pong.
-* O cliente mede o RTT (tempo de ida e volta).
-* O cliente trata perda de pacotes com timeout de 1 segundo.
-* Depois, a aplicação será adaptada para TCP.
+* Usa UDP inicialmente;
+* Mede o RTT (tempo de ida e volta) para cada pacote ping enviado;
+* Envia 10 mensagens ping;
+* Implementa timeout de 1 segundo (tratando perda de pacotes);
+* Depois, será adaptada para TCP;
+
+Tudo será executado em duas máquinas reais (ou virtuais), comunicando-se pela rede local (LAN) ou Wi-Fi.
