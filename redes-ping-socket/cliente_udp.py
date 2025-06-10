@@ -1,11 +1,11 @@
 import socket
 import time
 
-SERVER_IP = '200.135.80.184'  # IP da máquina servidor
-SERVER_PORT = 12000
+SERVER_IP = '200.135.80.38'  # IP da máquina servidor
+SERVER_PORT = 22222
 
 cliente = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
-cliente.settimeout(1)  # timeout de 1 segundo
+cliente.settimeout(10)  # timeout de 1 segundo
 
 for i in range(1, 11):
     mensagem = f"Ping {i} {time.time()}"

@@ -1,7 +1,7 @@
 import socket
 
-IP = '200.135.80.184'
-PORTA = 12001
+IP = '200.135.80.38'
+PORTA = 22223
 
 servidor = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 servidor.bind((IP, PORTA))

@@ -1,8 +1,8 @@
 import socket
 import time
 
-SERVER_IP = '200.135.80.184'
-SERVER_PORT = 12001
+SERVER_IP = '200.135.80.38'
+SERVER_PORT = 22223
 
 cliente = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 cliente.connect((SERVER_IP, SERVER_PORT))
