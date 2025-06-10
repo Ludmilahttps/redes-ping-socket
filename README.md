@@ -59,7 +59,7 @@ Inserir aqui imagens dos terminais de execução:
 - Cliente TCP:  
 ![Cliente TCP](https://github.com/user-attachments/assets/bdc2c63e-68a5-443b-b8f4-f20b07706969)
 - Servidor TCP:
-![Servidor TCP](https://github.com/user-attachments/assets/ebccc121-f745-4409-8d35-4225aca9548a)
+- ![Servidor TCP](https://github.com/user-attachments/assets/ebccc121-f745-4409-8d35-4225aca9548a)
 
 ## 4. Discussão
 
