@@ -52,10 +52,9 @@ Durante os testes entre duas máquinas reais, foram registrados os seguintes com
 Inserir aqui imagens dos terminais de execução:
 
 - Cliente UDP:
-  ![ClienteUDP](https://github.com/user-attachments/assets/52e8546a-a1cc-41e2-bdd9-45b930314574)
-
+![ClienteUDP](https://github.com/user-attachments/assets/52e8546a-a1cc-41e2-bdd9-45b930314574)
 - Servidor UDP:  
-![Servidor UDP](https://github.com/user-attachments/assets/606097ac-87da-4c2f-a040-eddd4e25a2ce)
+![Servidor UDP](https://github.com/user-attachments/assets/a4f34f2e-4e1f-4606-b15a-f8502c567d00)
 - Cliente TCP:  
 ![Cliente TCP](https://github.com/user-attachments/assets/bdc2c63e-68a5-443b-b8f4-f20b07706969)
 - Servidor TCP:
