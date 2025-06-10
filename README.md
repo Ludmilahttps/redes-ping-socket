@@ -22,8 +22,8 @@ Este trabalho teve como objetivo desenvolver uma aplicação cliente-servidor em
   - SO: Windows 11
 - Linguagem: Python 3
 - Comunicação via rede local (Wi-Fi)
-- Porta UDP: 12000
-- Porta TCP: 12001
+- Porta UDP: 22222
+- Porta TCP: 22223
 
 ### 2.2 Implementação – UDP
 
