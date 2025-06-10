@@ -56,7 +56,7 @@ Inserir aqui imagens dos terminais de execução:
 - Servidor UDP:  
 ![Servidor UDP](https://github.com/user-attachments/assets/a4f34f2e-4e1f-4606-b15a-f8502c567d00)
 - Cliente TCP:  
-![Cliente TCP](https://github.com/user-attachments/assets/bdc2c63e-68a5-443b-b8f4-f20b07706969)
+![Cliente TCP](https://github.com/user-attachments/assets/f29854f5-be87-43a1-9e73-b942e92daaa0)
 - Servidor TCP:
 - ![Servidor TCP](https://github.com/user-attachments/assets/ebccc121-f745-4409-8d35-4225aca9548a)
 
