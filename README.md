@@ -41,7 +41,6 @@ Durante os testes entre duas máquinas reais, foram registrados os seguintes com
 
 - No UDP:
   - Mensagens recebidas corretamente
-  - Algumas mensagens perdidas, simulando falhas reais de comunicação
   - RTTs exibidos no terminal do cliente
 
 - No TCP:
