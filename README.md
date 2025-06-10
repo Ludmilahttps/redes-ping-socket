@@ -15,7 +15,7 @@ Este trabalho teve como objetivo desenvolver uma aplicação cliente-servidor em
 ### 2.1 Ambiente de Testes
 
 - Máquina Servidor:
-  - IP: 200.135.80.38
+  - IP: 200.135.80.189
   - SO: Windows 11
 - Máquina Cliente:
   - IP: 200.135.77.135
