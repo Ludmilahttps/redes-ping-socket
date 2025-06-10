@@ -3,7 +3,7 @@
 Curso: Engenharia da Computação  
 Disciplina: DEC7557 – Redes de Computadores  
 Professora: Analucia Schiaffino Morales  
-Dupla: Ludmila Silveira e Fernando  
+Dupla: Ludmila Silveira e Fernando Moretti
 Data: 10/06/2025
 
 ## 1. Objetivo
